@@ -1,3 +1,7 @@
+## 1.0.4
+
+- Modified allowed http package versions to allow for compatibility with tonutils package
+
 ## 1.0.3
 
 Breaking Changes:
